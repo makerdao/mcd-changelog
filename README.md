@@ -11,6 +11,6 @@
 
 ## Past releases
 * [Release 0.2.4](https://changelog.makerdao.com/releases/0.2.4/index.html) (Friday, 19.04.2019) - Kovan network
-* Release 0.2.3 (Friday, 05.04.2019) - Kovan network
-* Release 0.2.2 (Friday, 22.03.2019) - Kovan network
-* Release 0.2.1 (Friday, 08.03.2019) - Kovan network
+* [Release 0.2.3](https://changelog.makerdao.com/releases/0.2.3/index.html) (Friday, 05.04.2019) - Kovan network
+* [Release 0.2.2](https://changelog.makerdao.com/releases/0.2.2/index.html) (Friday, 22.03.2019) - Kovan network
+* [Release 0.2.1](https://changelog.makerdao.com/releases/0.2.1/index.html) (Friday, 08.03.2019) - Kovan network
