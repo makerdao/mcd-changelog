@@ -13,4 +13,4 @@
 * [Release 0.2.4](/releases/0.2.4/index.html) (Friday, 19.04.2019) - Kovan network
 * [Release 0.2.3](/releases/0.2.3/index.html) (Friday, 05.04.2019) - Kovan network
 * [Release 0.2.2](/releases/0.2.2/index.html) (Friday, 22.03.2019) - Kovan network
-* Release 0.2.1 (Friday, 08.03.2019) - Kovan network, non-public release
+* [Release 0.2.1](/releases/0.2.2/index.html) (Friday, 08.03.2019) - Kovan network
