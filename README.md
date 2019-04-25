@@ -1,7 +1,7 @@
 # MakerDAO Multi-Collateral DAI Public Releases Page
 
 ## Latest release
-* [Release 0.2.4](/releases/latest/index.html) (Friday, 19.04.2019) - Kovan network
+* [Permanent link to the latest release](/releases/latest/)
 
 ---
 
