@@ -1,7 +1,7 @@
 # MakerDAO Multi-Collateral DAI Public Releases Page
 
 ## Latest release
-* [Permanent link to the latest release](/releases/latest/)
+* [Permanent link to the latest release](/releases/latest)
 
 ---
 
