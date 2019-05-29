@@ -6,7 +6,7 @@
 ---
 
 ## Future planned releases
-* Release 0.2.7 (Friday, 31.05.2019) - Goerli network
+* Release 0.2.7 (Friday, 31.05.2019) - Kovan network
 
 ## Past releases
 * [Release 0.2.6](/releases/0.2.6/index.html) (Friday, 17.05.2019) - Kovan network
