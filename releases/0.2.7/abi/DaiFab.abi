@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"symbol","type":"string"},{"name":"name","type":"string"},{"name":"version","type":"string"},{"name":"chainId","type":"uint256"}],"name":"newDai","outputs":[{"name":"dai","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
