@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"delay","type":"uint256"},{"name":"owner","type":"address"},{"name":"authority","type":"address"}],"name":"newPause","outputs":[{"name":"pause","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
