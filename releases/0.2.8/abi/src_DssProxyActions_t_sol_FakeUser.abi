@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"manager","type":"address"},{"name":"cdp","type":"uint256"},{"name":"dst","type":"address"}],"name":"doGive","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
