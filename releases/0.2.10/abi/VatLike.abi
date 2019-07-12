@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"","type":"bytes32"},{"name":"","type":"address"},{"name":"","type":"int256"}],"name":"slip","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
