@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"vat","type":"address"},{"name":"flap","type":"address"},{"name":"flop","type":"address"}],"name":"newVow","outputs":[{"name":"vow","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
