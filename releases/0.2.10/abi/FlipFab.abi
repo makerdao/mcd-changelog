@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"vat","type":"address"},{"name":"ilk","type":"bytes32"}],"name":"newFlip","outputs":[{"name":"flip","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
