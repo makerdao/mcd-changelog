@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"gov","type":"address"},{"name":"MAX_YAYS","type":"uint256"}],"name":"newChief","outputs":[{"name":"chief","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
