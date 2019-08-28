@@ -6,8 +6,8 @@
 ---
 
 ## Future planned releases
-* Release 0.3.1 (Friday, 20.09.2019) - Kovan network
-* Release 0.2.12 (Friday, 06.09.2019) - Kovan network
+* Release 0.3.1 (Friday, 13.09.2019) - Kovan network
+* Release 0.2.12 (Friday, 30.08.2019) - Kovan network
 
 ## Past releases
 * release postponed due to bug fixing (Friday, 23.08.2019)
