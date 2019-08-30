@@ -7,9 +7,9 @@
 
 ## Future planned releases
 * Release 0.3.1 (Friday, 13.09.2019) - Kovan network
-* Release 0.2.12 (Friday, 30.08.2019) - Kovan network
 
 ## Past releases
+* [Release 0.2.12](/releases/0.2.12/index.html) (Friday, 30.08.2019) - Kovan network
 * release postponed due to bug fixing (Friday, 23.08.2019)
 * [Release 0.2.11](/releases/0.2.11/index.html) (Friday, 09.08.2019) - Kovan network
 * no release due to minimal changes in smart contracts (Friday, 26.07.2019)

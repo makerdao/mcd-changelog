@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"vat","type":"address"}],"name":"newJug","outputs":[{"name":"jug","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]

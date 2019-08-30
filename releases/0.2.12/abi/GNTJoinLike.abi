@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"","type":"address"}],"name":"make","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"bags","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"}]
