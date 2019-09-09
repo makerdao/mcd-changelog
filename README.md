@@ -6,7 +6,7 @@
 ---
 
 ## Future planned releases
-* Release 0.3.1 (Friday, 13.09.2019) - Kovan network
+* Release 0.2.13 (Friday, 13.09.2019) - Kovan network
 
 ## Past releases
 * [Release 0.2.12](/releases/0.2.12/index.html) (Friday, 30.08.2019) - Kovan network
