@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"internalType":"address payable","name":"scdMcdMigration","type":"address"},{"internalType":"bytes32","name":"cup","type":"bytes32"}],"name":"migrate","outputs":[{"internalType":"uint256","name":"cdp","type":"uint256"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
