@@ -4,11 +4,14 @@
 * [Permanent link to the latest release](/releases/latest)
 
 ---
+## Future planned production release
+* Release 1.0.0 (Monday, 18.11.2019) - Mainnet release, if approved by governance voting
 
-## Future planned releases
+## Future planned test releases
+* Release 0.2.16 (Friday, 08.11.2019) - Kovan network
 * Release 0.2.15 (Friday, 25.10.2019) - Kovan network
 
-## Past releases
+## Past test releases
 * no release due to internal event (Friday, 11.10.2019)
 * [Release 0.2.14](/releases/0.2.14/index.html) (Friday, 27.09.2019) - Kovan network
 * [Release 0.2.13](/releases/0.2.13/index.html) (Friday, 13.09.2019) - Kovan network
@@ -27,6 +30,6 @@
 * [Release 0.2.2](/releases/0.2.2/index.html) (Friday, 22.03.2019) - Kovan network
 * [Release 0.2.1](/releases/0.2.1/index.html) (Friday, 08.03.2019) - Kovan network
 
-## Links to MCD Projects
+## Links to MCD test projects
 * [MCD Governance Dashboard](http://dai-gov-staging.now.sh/?mcd=true) - MCD contracts are only available on Kovan
 * [MCD CDP Portal](https://mcd-cdp-portal.mkr-js-prod.now.sh/?network=kovan)
