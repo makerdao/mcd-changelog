@@ -33,7 +33,7 @@
         <td align="left" valign="top">Past releases:
             <ul>
                 <li>no release due to internal event (Friday, 11.10.2019)</li>
-                <li><a href="/releases/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
+                <li><a href="/releases/kovan/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
                 <li><a href="/releases/0.2.13/index.html">Release 0.2.13</a> (Friday, 13.09.2019)</li>
                 <li><a href="/releases/0.2.12/index.html">Release 0.2.12</a> (Friday, 30.08.2019)</li>
                 <li>release postponed due to bug fixing (Friday, 23.08.2019)</li>
