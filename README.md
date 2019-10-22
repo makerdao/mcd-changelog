@@ -30,7 +30,7 @@
         </td>
     </tr>
     <tr>
-        <td align="left" valign="top">Passed releases:
+        <td align="left" valign="top">Past releases:
             <ul>
                 <li>no release due to internal event (Friday, 11.10.2019)</li>
                 <li><a href="/releases/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
@@ -48,15 +48,15 @@
                 <li><a href="/releases/0.2.4/index.html">Release 0.2.4</a> (Friday, 19.04.2019)</li>
                 <li><a href="/releases/0.2.3/index.html">Release 0.2.3</a> (Friday, 05.04.2019)</li>
                 <li><a href="/releases/0.2.2/index.html">Release 0.2.2</a> (Friday, 22.03.2019)</li>
-                <li><a href="/releases/0.2.1/index.html">Release 0.2.1</a> (Friday, 08.03.2019)</li>
+                <li><a href="/releases/kovan/0.2.1/index.html">Release 0.2.1</a> (Friday, 08.03.2019)</li>
             </ul>
         </td>
-        <td align="left" valign="top">Passed releases:
+        <td align="left" valign="top">Past releases:
             <ul>
                 <li><a href="/releases/rinkeby/0.2.14/index.html">Release 0.2.14</a> (Friday, 11.10.2019)</li>
             </ul>
         </td>
-        <td align="left" valign="top">Passed releases:
+        <td align="left" valign="top">Past releases:
             <ul>
                 <li>-</li>
             </ul>
