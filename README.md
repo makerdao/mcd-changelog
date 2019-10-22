@@ -6,9 +6,9 @@
         <td align="center"><b>Production releases</b></td>
     </tr>
     <tr>
-        <td align="center" width="33%"><i>Kovan test network</i></td>
-        <td align="center" width="33%"><i>Rinkeby test network</i></td>
-        <td align="center" width="34%"><i>Main Ethereum network</i></td>
+        <td align="center" width="34%"><i>Kovan test network</i></td>
+        <td align="center" width="34%"><i>Rinkeby test network</i></td>
+        <td align="center" width="32%"><i>Main Ethereum network</i></td>
     </tr>
     <tr>
         <td align="left" valign="top">Planned future releases:<br>
