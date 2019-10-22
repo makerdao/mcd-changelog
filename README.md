@@ -11,26 +11,26 @@
         <td align="center" width="32%"><i>Main Ethereum network</i></td>
     </tr>
     <tr>
-        <td align="left" valign="top">Planned future releases:<br>
+        <td align="left" valign="top">Planned future releases:
             <ul>
                 <li>Release 0.2.16 (Friday, 08.11.2019)</li>
                 <li>Release 0.2.15 (Friday, 25.10.2019)</li>
             </ul>
         </td>
-        <td align="left" valign="top">Planned future releases:<br>
+        <td align="left" valign="top">Planned future releases:
             <ul>
                 <li>Release 0.2.16 (Friday, 08.11.2019)</li>
                 <li>Release 0.2.15 (Friday, 25.10.2019)</li>
             </ul>
         </td>
-        <td align="left" valign="top">Planned future releases:<br>
+        <td align="left" valign="top">Planned future releases:
             <ul>
                 <li>Release 1.0.0 (Monday, 18.11.2019) - if approved by governance voting</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td align="left" valign="top">Passed releases:<br
+        <td align="left" valign="top">Passed releases:
             <ul>
                 <li>no release due to internal event (Friday, 11.10.2019)</li>
                 <li><a href="/releases/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
@@ -51,12 +51,12 @@
                 <li><a href="/releases/0.2.1/index.html">Release 0.2.1</a> (Friday, 08.03.2019)</li>
             </ul>
         </td>
-        <td align="left" valign="top">Passed releases:<br
+        <td align="left" valign="top">Passed releases:
             <ul>
                 <li><a href="/releases/rinkeby/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
             </ul>
         </td>
-        <td align="left" valign="top">Passed releases:<br
+        <td align="left" valign="top">Passed releases:
             <ul>
                 <li>-</li>
             </ul>
