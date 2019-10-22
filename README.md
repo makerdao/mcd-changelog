@@ -71,4 +71,4 @@
 
 ## Links to MCD test projects
 * [MCD Governance Dashboard](http://dai-gov-staging.now.sh/?mcd=true) - MCD contracts are only available on Kovan
-* [MCD CDP Portal](https://mcd-cdp-portal.mkr-js-prod.now.sh/?network=kovan)
+* [MCD CDP Portal](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
