@@ -2,15 +2,22 @@
 
 <table>
     <tr>
-        <td colspan="2" align="center"><b>Test releases</b></td>
+        <td colspan="3" align="center"><b>Test releases</b></td>
         <td align="center"><b>Production releases</b></td>
     </tr>
     <tr>
-        <td align="center" width="34%"><i>Kovan test network</i></td>
-        <td align="center" width="34%"><i>Rinkeby test network</i></td>
-        <td align="center" width="32%"><i>Main Ethereum network</i></td>
+        <td align="center" width="25%"><i>Kovan test network</i></td>
+        <td align="center" width="25%"><i>Rinkeby test network</i></td>
+        <td align="center" width="25%"><i>Ropsten test network</i></td>
+        <td align="center" width="25%"><i>Main Ethereum network</i></td>
     </tr>
     <tr>
+        <td align="left" valign="top">Planned future releases:
+            <ul>
+                <li>Release 0.2.16 (Friday, 08.11.2019)</li>
+                <li>Release 0.2.15 (Friday, 25.10.2019)</li>
+            </ul>
+        </td>
         <td align="left" valign="top">Planned future releases:
             <ul>
                 <li>Release 0.2.16 (Friday, 08.11.2019)</li>
@@ -58,11 +65,17 @@
         </td>
         <td align="left" valign="top">Past releases:
             <ul>
+                <li><a href="/releases/ropsten/0.2.14/index.html">Release 0.2.14</a> (Wednesday, 23.10.2019)</li>
+            </ul>
+        </td>
+        <td align="left" valign="top">Past releases:
+            <ul>
                 <li>-</li>
             </ul>
         </td>
     </tr>
 </table>
+</font>
 
 ## Latest Kovan release
 * [Permanent link to the latest Kovan release](/releases/latest)
