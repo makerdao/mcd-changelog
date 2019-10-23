@@ -75,7 +75,6 @@
         </td>
     </tr>
 </table>
-</font>
 
 ## Latest Kovan release
 * [Permanent link to the latest Kovan release](/releases/latest)
