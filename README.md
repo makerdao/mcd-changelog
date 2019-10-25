@@ -20,14 +20,12 @@
         </td>
         <td align="left" valign="top">Planned future releases:
             <ul>
-                <li>Release 0.2.16 (Friday, 08.11.2019)</li>
-                <li>Release 0.2.15 (Friday, 25.10.2019)</li>
+                <li>-</li>
             </ul>
         </td>
         <td align="left" valign="top">Planned future releases:
             <ul>
-                <li>Release 0.2.16 (Friday, 08.11.2019)</li>
-                <li>Release 0.2.15 (Friday, 25.10.2019)</li>
+                <li>-</li>
             </ul>
         </td>
         <td align="left" valign="top">Planned future releases:
