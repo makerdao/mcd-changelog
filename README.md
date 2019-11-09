@@ -14,7 +14,7 @@
     <tr>
         <td align="left" valign="top">Planned future releases:
             <ul>
-                <li>Release 0.2.16 (Friday, 08.11.2019)</li>
+                <li>-</li>
             </ul>
         </td>
         <td align="left" valign="top">Planned future releases:
@@ -36,6 +36,7 @@
     <tr>
         <td align="left" valign="top">Past releases:
             <ul>
+                <li><a href="/releases/kovan/0.2.16/index.html">Release 0.2.16</a> (Friday, 08.11.2019)</li>
                 <li><a href="/releases/kovan/0.2.15/index.html">Release 0.2.15</a> (Friday, 25.10.2019)</li>
                 <li>no release due to internal event (Friday, 11.10.2019)</li>
                 <li><a href="/releases/kovan/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
