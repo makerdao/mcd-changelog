@@ -14,7 +14,7 @@
     <tr>
         <td align="left" valign="top">Planned future releases:
             <ul>
-                <li>-</li>
+                <li>0.2.17 (Tuesday, 12.11.2019) - have some last minute improvements landed in the final release</li>
             </ul>
         </td>
         <td align="left" valign="top">Planned future releases:
