@@ -1,7 +1,7 @@
 # MakerDAO Multi-Collateral DAI Public Releases Page
 
 ## Staging Environments
-* [MCD Governance Dashboard](http://dai-gov-staging.now.sh/?mcd=true) - MCD contracts are only available on Kovan
+* [MCD Governance Dashboard](http://dai-gov-staging.now.sh/?mcd=true)
 * [MCD CDP Portal](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
 ## Release Calendar
@@ -61,7 +61,3 @@
 
 ## Latest Kovan release
 * [Permanent link to the latest Kovan release](/releases/latest)
-
----
-
-
