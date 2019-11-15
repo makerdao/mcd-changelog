@@ -4,7 +4,7 @@
 * [MCD Governance Dashboard](http://dai-gov-staging.now.sh/?mcd=true) - MCD contracts are only available on Kovan
 * [MCD CDP Portal](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
-## Multi-Collateral DAI Release Calendar
+## Release Calendar
 <table>
     <tr>
         <td colspan="3" align="center"><b>Test releases</b></td>
