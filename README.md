@@ -7,16 +7,21 @@
 ## Release Calendar
 <table>
     <tr>
+        <td align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
-        <td align="center"><b>Production releases</b></td>
     </tr>
     <tr>
+        <td  bgcolor="#F4B731" align="center" width="25%"><i>Main Ethereum network</i></td>        
         <td align="center" width="25%"><i>Kovan test network</i></td>
         <td align="center" width="25%"><i>Rinkeby test network</i></td>
         <td align="center" width="25%"><i>Ropsten test network</i></td>
-        <td align="center" width="25%"><i>Main Ethereum network</i></td>
     </tr>
     <tr>
+        <td align="left" valign="top">
+            <ul>
+                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> - <b>Identical to 0.2.17 Kovan release</b></li>
+            </ul>
+        </td>
         <td align="left" valign="top">
             <ul>
                 <li><a href="/releases/kovan/0.2.17/index.html">Release 0.2.17</a> (Tuesday, 12.11.2019) - <b>Identical to 1.0.0 Mainnet release</b></li>
@@ -49,11 +54,6 @@
         <td align="left" valign="top">
             <ul>
                 <li><a href="/releases/ropsten/0.2.14/index.html">Release 0.2.14</a> (Wednesday, 23.10.2019)</li>
-            </ul>
-        </td>
-        <td align="left" valign="top">
-            <ul>
-                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> - <b>Identical to 0.2.17 Kovan release</b></li>
             </ul>
         </td>
     </tr>
