@@ -7,11 +7,11 @@
 ## Release Calendar
 <table>
     <tr>
-        <td align="center"><b>Production releases</b></td>        
+        <td bgcolor="#F4B731" align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
     </tr>
     <tr>
-        <td  bgcolor="#F4B731" align="center" width="25%"><i>Main Ethereum network</i></td>        
+        <td align="center" width="25%"><i>Main Ethereum network</i></td>        
         <td align="center" width="25%"><i>Kovan test network</i></td>
         <td align="center" width="25%"><i>Rinkeby test network</i></td>
         <td align="center" width="25%"><i>Ropsten test network</i></td>
