@@ -19,11 +19,13 @@
     <tr>
         <td align="left" valign="top">
             <ul>
+                <li><a href="/releases/mainnet/1.0.1/index.html">Release 1.0.1</a> - <b>Identical to 1.0.0 Mainnet release</b></li>
                 <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> - <b>Identical to 0.2.17 Kovan release</b></li>
             </ul>
         </td>
         <td align="left" valign="top">
             <ul>
+                <li><a href="/releases/kovan/1.0.1/index.html">Release 1.0.1</a> (Tuesday, 03.12.2019) - <b>Identical to 1.0.1 Mainnet release</b></li>
                 <li><a href="/releases/kovan/0.2.17/index.html">Release 0.2.17</a> (Tuesday, 12.11.2019) - <b>Identical to 1.0.0 Mainnet release</b></li>
                 <li><a href="/releases/kovan/0.2.16/index.html">Release 0.2.16</a> (Friday, 08.11.2019)</li>
                 <li><a href="/releases/kovan/0.2.15/index.html">Release 0.2.15</a> (Friday, 25.10.2019)</li>
