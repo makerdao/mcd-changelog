@@ -6,6 +6,7 @@
 
 ## Release Calendar
 <table>
+    <font size="7">
     <tr>
         <td bgcolor="#F4B731" align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
@@ -57,6 +58,7 @@
             </ul>
         </td>
     </tr>
+    </font>
 </table>
 
 ## Latest Kovan release
