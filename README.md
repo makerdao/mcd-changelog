@@ -5,7 +5,7 @@
 * [Oasis Borrow and Save](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
 ## Release Calendar
-<table>
+<table style='font-family: Droid Sans Mono;'>
     <tr>
         <td bgcolor="#F4B731" align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
