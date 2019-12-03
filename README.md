@@ -5,7 +5,7 @@
 * [MCD CDP Portal](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
 ## Release Calendar
-<table style='font-family:"Courier New", Courier, monospace; font-size:80%'>
+<table style='font-size:75%'>
     <tr>
         <td bgcolor="#F4B731" align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
