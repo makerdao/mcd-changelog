@@ -19,7 +19,7 @@
     <tr style='font-size:75%'>
         <td align="left" valign="top">
             <ul>
-                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> - <b>Identical to 0.2.17 Kovan release</b></li>
+                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> (Monday, 18.11.2019) - <b>Identical to 0.2.17 Kovan release</b></li>
             </ul>
         </td>
         <td align="left" valign="top">
