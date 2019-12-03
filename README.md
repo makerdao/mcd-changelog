@@ -5,7 +5,7 @@
 * [Oasis Borrow and Save](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
 ## Release Calendar
-<table style='font-family: Droid Sans Mono;'>
+<table>
     <tr>
         <td bgcolor="#F4B731" align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
@@ -16,10 +16,10 @@
         <td align="center" width="25%"><i>Rinkeby test network</i></td>
         <td align="center" width="25%"><i>Ropsten test network</i></td>
     </tr>
-    <tr style='font-size:75%'>
+    <tr style='font-family: Droid Sans Mono, font-size:80%'>
         <td align="left" valign="top">
             <ul>
-                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> (Monday, 18.11.2019) - <b>Identical to 0.2.17 Kovan release</b></li>
+                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> (Monday, 18.11.2019)<br>- <b>Identical to 0.2.17 Kovan release</b></li>
             </ul>
         </td>
         <td align="left" valign="top">
@@ -31,9 +31,9 @@
                 <li><a href="/releases/kovan/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
                 <li><a href="/releases/kovan/0.2.13/index.html">Release 0.2.13</a> (Friday, 13.09.2019)</li>
                 <li><a href="/releases/kovan/0.2.12/index.html">Release 0.2.12</a> (Friday, 30.08.2019)</li>
-                <li>release postponed due to bug fixing (Friday, 23.08.2019)</li>
+                <li>— (Friday, 23.08.2019)<br>- release postponed due to bug fixing</li>
                 <li><a href="/releases/kovan/0.2.11/index.html">Release 0.2.11</a> (Friday, 09.08.2019)</li>
-                <li>no release due to minimal changes in smart contracts (Friday, 26.07.2019)</li>
+                <li>— (Friday, 26.07.2019)<br>- no release due to minimal changes in smart contracts</li>
                 <li><a href="/releases/kovan/0.2.10/index.html">Release 0.2.10</a> (Friday, 12.07.2019)</li>
                 <li><a href="/releases/kovan/0.2.9/index.html">Release 0.2.9</a> (Friday, 28.06.2019)</li>
                 <li><a href="/releases/kovan/0.2.8/index.html">Release 0.2.8</a> (Friday, 14.06.2019)</li>
