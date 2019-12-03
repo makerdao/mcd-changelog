@@ -1,4 +1,4 @@
-# MakerDAO Multi-Collateral DAI Public Releases Page
+# Maker Foundation Multi-Collateral DAI Public Releases Page
 
 ## Staging Environments
 * [MCD Governance App](http://dai-gov-staging.now.sh/?mcd=true)
