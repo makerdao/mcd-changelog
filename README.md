@@ -16,7 +16,7 @@
         <td align="center" width="25%"><i>Rinkeby test network</i></td>
         <td align="center" width="25%"><i>Ropsten test network</i></td>
     </tr>
-    <tr style='font-family: Droid Sans Mono, font-size:80%'>
+    <tr style='font-family: Droid Sans Mono; font-size:80%'>
         <td align="left" valign="top">
             <ul>
                 <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> (Monday, 18.11.2019)<br>- <b>Identical to 0.2.17 Kovan release</b></li>
@@ -24,10 +24,10 @@
         </td>
         <td align="left" valign="top">
             <ul>
-                <li><a href="/releases/kovan/0.2.17/index.html">Release 0.2.17</a> (Tuesday, 12.11.2019) - <b>Identical to 1.0.0 Mainnet release</b></li>
+                <li><a href="/releases/kovan/0.2.17/index.html">Release 0.2.17</a> (Tuesday, 12.11.2019)<br>- <b>Identical to 1.0.0 Mainnet release</b></li>
                 <li><a href="/releases/kovan/0.2.16/index.html">Release 0.2.16</a> (Friday, 08.11.2019)</li>
                 <li><a href="/releases/kovan/0.2.15/index.html">Release 0.2.15</a> (Friday, 25.10.2019)</li>
-                <li>no release due to internal event (Friday, 11.10.2019)</li>
+                <li>— (Friday, 11.10.2019)<br>- no release due to internal event</li>
                 <li><a href="/releases/kovan/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
                 <li><a href="/releases/kovan/0.2.13/index.html">Release 0.2.13</a> (Friday, 13.09.2019)</li>
                 <li><a href="/releases/kovan/0.2.12/index.html">Release 0.2.12</a> (Friday, 30.08.2019)</li>
