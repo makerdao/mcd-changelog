@@ -5,7 +5,7 @@
 * [MCD CDP Portal](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
 ## Release Calendar
-<table style='font-size:75%'>
+<table>
     <tr>
         <td bgcolor="#F4B731" align="center"><b>Production releases</b></td>        
         <td colspan="3" align="center"><b>Test releases</b></td>
@@ -16,7 +16,7 @@
         <td align="center" width="25%"><i>Rinkeby test network</i></td>
         <td align="center" width="25%"><i>Ropsten test network</i></td>
     </tr>
-    <tr>
+    <tr style='font-size:75%'>
         <td align="left" valign="top">
             <ul>
                 <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> - <b>Identical to 0.2.17 Kovan release</b></li>
