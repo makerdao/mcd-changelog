@@ -2,7 +2,7 @@
 
 ## Staging Environments
 * [MCD Governance App](http://dai-gov-staging.now.sh/?mcd=true)
-* [Oasis App](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
+* [Oasis Borrow and Save](https://mcd-cdp-portal-git-develop.mkr-js-prod.now.sh/?network=kovan)
 
 ## Release Calendar
 <table>
