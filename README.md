@@ -52,11 +52,13 @@
         </td>
         <td align="left" valign="top">
             <ul>
+                <li><a href="/releases/rinkeby/1.0.2/index.html">Release 1.0.2</a> (Monday, 17.01.2020)</li>
                 <li><a href="/releases/rinkeby/0.2.14/index.html">Release 0.2.14</a> (Friday, 11.10.2019)</li>
             </ul>
         </td>
         <td align="left" valign="top">
             <ul>
+                <li><a href="/releases/ropsten/1.0.2/index.html">Release 1.0.2</a> (Monday, 17.01.2020)</li>
                 <li><a href="/releases/ropsten/0.2.14/index.html">Release 0.2.14</a> (Wednesday, 23.10.2019)</li>
             </ul>
         </td>
