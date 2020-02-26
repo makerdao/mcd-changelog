@@ -11,9 +11,9 @@
 
 ## Release Calendar
 ### Production releases
-<table>
+<table width="50%">
 	<tr>
-		<td bgcolor="#F4B731" align="center" width="50%"><i>Main Ethereum network</i></td>
+		<td bgcolor="#F4B731" align="center"><i>Main Ethereum network</i></td>
 	</tr>
 	<tr>
 		<td style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
@@ -30,7 +30,7 @@
 ### Test releases
 <i>* Disclaimer: Out of all test releases, only release deployed to Kovan network contains all necessary configuration required for full testing.</i>
 
-<table>
+<table width="100%">
 	<tr>
 		<td align="center" width="25%"><i>Kovan test network</i></td>
 		<td align="center" width="25%"><i>Rinkeby test network</i></td>
@@ -42,21 +42,16 @@
 			<ul>
 				<li><a href="/releases/kovan/1.0.2/index.html">Release 1.0.2</a> (Tuesday, 21.01.2020)</li>
 				<li><a href="/releases/kovan/1.0.1/index.html">Release 1.0.1</a> (Tuesday, 03.12.2019)</li>
-				<li><a href="/releases/kovan/0.2.17/index.html">Release 0.2.17</a> (Tuesday, 12.11.2019)
-					<br>- <b>Identical to 1.0.0 Mainnet release</b>
-				</li>
+				<li><a href="/releases/kovan/0.2.17/index.html">Release 0.2.17</a> (Tuesday, 12.11.2019)<br>- <b>Identical to 1.0.0 Mainnet release</b></li>
 				<li><a href="/releases/kovan/0.2.16/index.html">Release 0.2.16</a> (Friday, 08.11.2019)</li>
 				<li><a href="/releases/kovan/0.2.15/index.html">Release 0.2.15</a> (Friday, 25.10.2019)</li>
-				<li>— (Friday, 11.10.2019)
-					<br>- no release due to internal event</li>
+				<li>— (Friday, 11.10.2019)<br>- no release due to internal event</li>
 				<li><a href="/releases/kovan/0.2.14/index.html">Release 0.2.14</a> (Friday, 27.09.2019)</li>
 				<li><a href="/releases/kovan/0.2.13/index.html">Release 0.2.13</a> (Friday, 13.09.2019)</li>
 				<li><a href="/releases/kovan/0.2.12/index.html">Release 0.2.12</a> (Friday, 30.08.2019)</li>
-				<li>— (Friday, 23.08.2019)
-					<br>- release postponed due to bug fixing</li>
+				<li>— (Friday, 23.08.2019)<br>- release postponed due to bug fixing</li>
 				<li><a href="/releases/kovan/0.2.11/index.html">Release 0.2.11</a> (Friday, 09.08.2019)</li>
-				<li>— (Friday, 26.07.2019)
-					<br>- no release due to minimal changes in smart contracts</li>
+				<li>— (Friday, 26.07.2019)<br>- no release due to minimal changes in smart contracts</li>
 				<li><a href="/releases/kovan/0.2.10/index.html">Release 0.2.10</a> (Friday, 12.07.2019)</li>
 				<li><a href="/releases/kovan/0.2.9/index.html">Release 0.2.9</a> (Friday, 28.06.2019)</li>
 				<li><a href="/releases/kovan/0.2.8/index.html">Release 0.2.8</a> (Friday, 14.06.2019)</li>
