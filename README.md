@@ -84,7 +84,6 @@
 		<td align="left" valign="top">
 			<ul>
 				<li><a href="/releases/goerli/1.0.2/index.html">Release 1.0.2</a> (Tuesday, 25.02.2020)</li>
-				</li>
 			</ul>
 		</td>
 	</tr>
