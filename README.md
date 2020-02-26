@@ -12,17 +12,18 @@
 ## Release Calendar
 ### Production releases
 <table>
-    <tr>
-        <td bgcolor="#F4B731" align="center" width="50%"><i>Main Ethereum network</i></td>
-    <tr>
-    <tr style='font-family: Droid Sans Mono; font-size:80%'>
-        <td align="left" valign="top">
-            <ul>
-                <li><a href="/releases/mainnet/1.0.2/index.html">Release 1.0.2</a> (Tuesday, 14.01.2020)</li>
-                <li><a href="/releases/mainnet/1.0.1/index.html">Release 1.0.1</a> (Tuesday, 03.12.2019)</li>
-                <li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> (Monday, 18.11.2019) - <b>Identical to 0.2.17 Kovan release</b></li>
-            </ul>
-        </td>
+	<tr>
+		<td bgcolor="#F4B731" align="center" width="50%"><i>Main Ethereum network</i></td>
+	</tr>
+	<tr>
+		<td style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
+			<ul>
+				<li><a href="/releases/mainnet/1.0.2/index.html">Release 1.0.2</a> (Tuesday, 14.01.2020)</li>
+				<li><a href="/releases/mainnet/1.0.1/index.html">Release 1.0.1</a> (Tuesday, 03.12.2019)</li>
+				<li><a href="/releases/mainnet/1.0.0/index.html">Release 1.0.0</a> (Monday, 18.11.2019) - <b>Identical to 0.2.17 Kovan release</b></li>
+			</ul>
+		</td>
+	</tr>
 </table>
 
 
@@ -31,14 +32,10 @@
 
 <table>
 	<tr>
-		<td align="center" width="25%"><i>Kovan test network</i>
-		</td>
-		<td align="center" width="25%"><i>Rinkeby test network</i>
-		</td>
-		<td align="center" width="25%"><i>Ropsten test network</i>
-		</td>
-		<td align="center" width="25%"><i>Goerli test network</i>
-		</td>
+		<td align="center" width="25%"><i>Kovan test network</i></td>
+		<td align="center" width="25%"><i>Rinkeby test network</i></td>
+		<td align="center" width="25%"><i>Ropsten test network</i></td>
+		<td align="center" width="25%"><i>Goerli test network</i></td>
 	</tr>
 	<tr style='font-family: Droid Sans Mono; font-size:80%'>
 		<td align="left" valign="top">
