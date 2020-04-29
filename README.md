@@ -43,6 +43,7 @@
 	<tr style='font-family: Droid Sans Mono; font-size:80%'>
 		<td align="left" valign="top">
 			<ul>
+				<li><a href="/releases/kovan/1.0.6/index.html">Release 1.0.6</a> (Tuesday, 28.04.2020)</li>
 				<li><a href="/releases/kovan/1.0.5/index.html">Release 1.0.5</a> (Friday, 17.04.2020)</li>
 				<li><a href="/releases/kovan/1.0.4/index.html">Release 1.0.4</a> (Wednesday, 18.03.2020)</li>
 				<li><a href="/releases/kovan/1.0.3/index.html">Release 1.0.3</a> (Thursday, 27.02.2020)</li>
