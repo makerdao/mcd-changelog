@@ -18,6 +18,7 @@
 	<tr>
 		<td style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
 			<ul>
+				<li><a href="/releases/mainnet/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>				
 				<li><a href="/releases/mainnet/1.0.7/index.html">Release 1.0.7</a> (Thursday, 04.06.2020)</li>
 				<li><a href="/releases/mainnet/1.0.6/index.html">Release 1.0.6</a> (Friday, 01.05.2020)</li>
 				<li><a href="/releases/mainnet/1.0.5/index.html">Release 1.0.5</a> (Friday, 17.04.2020)</li>
@@ -45,6 +46,7 @@
 	<tr style='font-family: Droid Sans Mono; font-size:80%'>
 		<td align="left" valign="top">
 			<ul>
+				<li><a href="/releases/kovan/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>				
 				<li><a href="/releases/kovan/1.0.7/index.html">Release 1.0.7</a> (Wednesday, 03.06.2020)</li>
 				<li><a href="/releases/kovan/1.0.6/index.html">Release 1.0.6</a> (Tuesday, 28.04.2020)</li>
 				<li><a href="/releases/kovan/1.0.5/index.html">Release 1.0.5</a> (Friday, 17.04.2020)</li>
