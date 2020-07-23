@@ -16,11 +16,10 @@
 		<td bgcolor="#F4B731" align="center"><i>Main Ethereum network</i></td>
 	</tr>
 	<tr>
-		<td><a href="/releases/mainnet/latest/contracts.json">Permanent link to the <b>latest Mainnet contracts</b><br>
-		<a href="/releases/mainnet/latest/">Permanent link to the <b>latest Mainnet release page</b></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>
+			<a href="/releases/mainnet/latest/contracts.json">Permanent link to the <b>latest Mainnet contracts</b></a><br>
+			<a href="/releases/mainnet/latest/">Permanent link to the <b>latest Mainnet release page</b></a>
+		</td>
 	</tr>
 	<tr>
 		<td style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
@@ -51,8 +50,8 @@
 		<td align="center" width="25%"><i>Goerli test network</i></td>
 	</tr>
 	<tr>
-		<td><a href="/releases/kovan/latest/contracts.json">Permanent link to the <b>latest Kovan contracts</b><br>
-		<a href="/releases/kovan/latest/">Permanent link to the <b>latest Kovan release page</b></td>
+		<td><a href="/releases/kovan/latest/contracts.json">Permanent link to the <b>latest Kovan contracts</b></a><br>
+		<a href="/releases/kovan/latest/">Permanent link to the <b>latest Kovan release page</b></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
