@@ -16,6 +16,13 @@
 		<td bgcolor="#F4B731" align="center"><i>Main Ethereum network</i></td>
 	</tr>
 	<tr>
+		<td><a href="/releases/mainnet/latest/contracts.json">Permanent link to the <b>latest Mainnet contracts</b><br>
+		<a href="/releases/mainnet/latest/">Permanent link to the <b>latest Mainnet release page</b></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
 			<ul>
 				<li><a href="/releases/mainnet/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>				
@@ -42,6 +49,13 @@
 		<td align="center" width="25%"><i>Rinkeby test network</i></td>
 		<td align="center" width="25%"><i>Ropsten test network</i></td>
 		<td align="center" width="25%"><i>Goerli test network</i></td>
+	</tr>
+	<tr>
+		<td><a href="/releases/kovan/latest/contracts.json">Permanent link to the <b>latest Kovan contracts</b><br>
+		<a href="/releases/kovan/latest/">Permanent link to the <b>latest Kovan release page</b></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr style='font-family: Droid Sans Mono; font-size:80%'>
 		<td align="left" valign="top">
