@@ -16,9 +16,16 @@
 		<td bgcolor="#F4B731" align="center"><i>Main Ethereum network</i></td>
 	</tr>
 	<tr>
+		<td>
+			<a href="/releases/mainnet/latest/contracts.json">Permanent link to the <b>latest Mainnet contracts</b></a><br>
+			<a href="/releases/mainnet/latest/">Permanent link to the <b>latest Mainnet release page</b></a>
+		</td>
+	</tr>
+	<tr>
 		<td style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
 			<ul>
-				<li><a href="/releases/mainnet/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>				
+				<li><a href="/releases/mainnet/1.0.9/index.html">Release 1.0.9</a> (Thursday, 23.07.2020)</li>
+				<li><a href="/releases/mainnet/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>
 				<li><a href="/releases/mainnet/1.0.7/index.html">Release 1.0.7</a> (Thursday, 04.06.2020)</li>
 				<li><a href="/releases/mainnet/1.0.6/index.html">Release 1.0.6</a> (Friday, 01.05.2020)</li>
 				<li><a href="/releases/mainnet/1.0.5/index.html">Release 1.0.5</a> (Friday, 17.04.2020)</li>
@@ -43,10 +50,18 @@
 		<td align="center" width="25%"><i>Ropsten test network</i></td>
 		<td align="center" width="25%"><i>Goerli test network</i></td>
 	</tr>
-	<tr style='font-family: Droid Sans Mono; font-size:80%'>
-		<td align="left" valign="top">
+	<tr>
+		<td><a href="/releases/kovan/latest/contracts.json">Permanent link to the <b>latest Kovan contracts</b></a><br>
+		<a href="/releases/kovan/latest/">Permanent link to the <b>latest Kovan release page</b></a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr style='font-family: Droid Sans Mono; font-size:80%' align="left" valign="top">
+		<td>
 			<ul>
-				<li><a href="/releases/kovan/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>				
+				<li><a href="/releases/kovan/1.0.9/index.html">Release 1.0.9</a> (Wednesday, 22.07.2020)</li>
+				<li><a href="/releases/kovan/1.0.8/index.html">Release 1.0.8</a> (Thursday, 25.06.2020)</li>
 				<li><a href="/releases/kovan/1.0.7/index.html">Release 1.0.7</a> (Wednesday, 03.06.2020)</li>
 				<li><a href="/releases/kovan/1.0.6/index.html">Release 1.0.6</a> (Tuesday, 28.04.2020)</li>
 				<li><a href="/releases/kovan/1.0.5/index.html">Release 1.0.5</a> (Friday, 17.04.2020)</li>
@@ -76,21 +91,21 @@
 				<li><a href="/releases/kovan/0.2.1/index.html">Release 0.2.1</a> (Friday, 08.03.2019)</li>
 			</ul>
 		</td>
-		<td align="left" valign="top">
+		<td>
 			<ul>
 				<li><a href="/releases/rinkeby/1.0.4/index.html">Release 1.0.4</a> (Monday, 13.04.2020)</li>
 				<li><a href="/releases/rinkeby/1.0.2/index.html">Release 1.0.2</a> (Monday, 17.01.2020)</li>
 				<li><a href="/releases/rinkeby/0.2.14/index.html">Release 0.2.14</a> (Friday, 11.10.2019)</li>
 			</ul>
 		</td>
-		<td align="left" valign="top">
+		<td>
 			<ul>
 				<li><a href="/releases/ropsten/1.0.4/index.html">Release 1.0.4</a> (Tuesday, 14.04.2020)</li>		
 				<li><a href="/releases/ropsten/1.0.2/index.html">Release 1.0.2</a> (Monday, 17.01.2020)</li>
 				<li><a href="/releases/ropsten/0.2.14/index.html">Release 0.2.14</a> (Wednesday, 23.10.2019)</li>
 			</ul>
 		</td>
-		<td align="left" valign="top">
+		<td>
 			<ul>
 				<li><a href="/releases/goerli/1.0.4/index.html">Release 1.0.4</a> (Monday, 13.04.2020)</li>
 				<li><a href="/releases/goerli/1.0.2/index.html">Release 1.0.2</a> (Tuesday, 25.02.2020)</li>
