@@ -10,6 +10,11 @@ Go to https://changelog.makerdao.com/ to see the details.
 
 3. Once the spell is cast and everything is deployed, "active" links would be updated to point to the new addresses - https://changelog.makerdao.com/releases/kovan/active/contracts.json and https://changelog.makerdao.com/releases/mainnet/active/contracts.json. For backwards compatibility, URLs using "latest" instead of "active" are also updated to point to the new addresses.
 
+```
+# To update the "active" symlink to "1.2.5"
+ln -sfn 1.2.5 ./releases/mainnet/active
+```
+
 4. Changes are communicated internally and externally - Rocket Chat and Forum topic.
 
 ## Using the changelog
