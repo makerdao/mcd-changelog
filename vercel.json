@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/releases/mainnet/active/contracts.json",
-      "destination": "/releases/mainnet/1.8.0/contracts.json",
+      "destination": "/releases/mainnet/1.9.0/contracts.json",
       "permanent": false
     },
     {
       "source": "/releases/mainnet/active/",
-      "destination": "/releases/mainnet/1.8.0/index.html",
+      "destination": "/releases/mainnet/1.9.0/index.html",
       "permanent": false
     },
     {
