@@ -12,12 +12,12 @@
     },
     {
       "source": "/releases/kovan/active/contracts.json",
-      "destination": "/releases/kovan/1.9.2/contracts.json",
+      "destination": "/releases/kovan/1.9.3/contracts.json",
       "permanent": false
     },
     {
       "source": "/releases/kovan/active/",
-      "destination": "/releases/kovan/1.9.2/index.html",
+      "destination": "/releases/kovan/1.9.3/index.html",
       "permanent": false
     },
     {
