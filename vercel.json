@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/releases/mainnet/active/contracts.json",
-      "destination": "/releases/mainnet/1.9.6/contracts.json",
+      "destination": "/releases/mainnet/1.9.5/contracts.json",
       "permanent": false
     },
     {
       "source": "/releases/mainnet/active/",
-      "destination": "/releases/mainnet/1.9.6/index.html",
+      "destination": "/releases/mainnet/1.9.5/index.html",
       "permanent": false
     },
     {
@@ -21,6 +21,16 @@
       "permanent": false
     },
     {
+      "source": "/releases/kovan/active/contracts.json",
+      "destination": "/releases/kovan/1.9.4/contracts.json",
+      "permanent": false
+    },
+    {
+      "source": "/releases/kovan/active/",
+      "destination": "/releases/kovan/1.9.4/index.html",
+      "permanent": false
+    },
+    {
       "source": "/releases/mainnet/latest",
       "destination": "/releases/mainnet/active/",
       "permanent": true
@@ -28,6 +38,11 @@
     {
       "source": "/releases/goerli/latest",
       "destination": "/releases/goerli/active/",
+      "permanent": true
+    },
+    {
+      "source": "/releases/kovan/latest",
+      "destination": "/releases/kovan/active/",
       "permanent": true
     }
   ]
