@@ -12,12 +12,12 @@
     },
     {
       "source": "/releases/goerli/active/contracts.json",
-      "destination": "/releases/goerli/1.9.5/contracts.json",
+      "destination": "/releases/goerli/1.9.6/contracts.json",
       "permanent": false
     },
     {
       "source": "/releases/goerli/active/",
-      "destination": "/releases/goerli/1.9.5/index.html",
+      "destination": "/releases/goerli/1.9.6/index.html",
       "permanent": false
     },
     {
