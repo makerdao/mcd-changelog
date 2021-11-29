@@ -2,22 +2,22 @@
   "redirects": [
     {
       "source": "/releases/mainnet/active/contracts.json",
-      "destination": "/releases/mainnet/1.9.10/contracts.json",
+      "destination": "/releases/mainnet/1.9.11/contracts.json",
       "permanent": false
     },
     {
       "source": "/releases/mainnet/active/",
-      "destination": "/releases/mainnet/1.9.10/index.html",
+      "destination": "/releases/mainnet/1.9.11/index.html",
       "permanent": false
     },
     {
       "source": "/releases/goerli/active/contracts.json",
-      "destination": "/releases/goerli/1.9.10/contracts.json",
+      "destination": "/releases/goerli/1.9.11/contracts.json",
       "permanent": false
     },
     {
       "source": "/releases/goerli/active/",
-      "destination": "/releases/goerli/1.9.10/index.html",
+      "destination": "/releases/goerli/1.9.11/index.html",
       "permanent": false
     },
     {
