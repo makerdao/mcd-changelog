@@ -2,32 +2,32 @@
   "redirects": [
     {
       "source": "/releases/mainnet/active/contracts.json",
-      "destination": "/releases/mainnet/1.12.0/contracts.json",
+      "destination": "https://chainlog.makerdao.com/api/mainnet/active.json",
       "permanent": false
     },
     {
       "source": "/releases/mainnet/active/",
-      "destination": "/releases/mainnet/1.12.0/index.html",
+      "destination": "https://chainlog.makerdao.com",
       "permanent": false
     },
     {
       "source": "/releases/goerli/active/contracts.json",
-      "destination": "/releases/goerli/1.12.0/contracts.json",
+      "destination": "https://chainlog.makerdao.com/api/goerli/active.json",
       "permanent": false
     },
     {
       "source": "/releases/goerli/active/",
-      "destination": "/releases/goerli/1.12.0/index.html",
+      "destination": "https://chainlog.makerdao.com",
       "permanent": false
     },
     {
       "source": "/releases/kovan/active/contracts.json",
-      "destination": "/releases/kovan/1.9.4/contracts.json",
+      "destination": "https://chainlog.makerdao.com/api/kovan/1.9.4.json",
       "permanent": false
     },
     {
       "source": "/releases/kovan/active/",
-      "destination": "/releases/kovan/1.9.4/index.html",
+      "destination": "https://chainlog.makerdao.com",
       "permanent": false
     },
     {
