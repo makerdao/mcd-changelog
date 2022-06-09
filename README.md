@@ -1,8 +1,21 @@
-# Maker Foundation Multi-Collateral DAI Public Releases Page
+# Deprecation Notice
+
+MakerDAO’s Changelog was deprecated in favor of its on-chain counterpart, the Chainlog. Please refer to the following resources:
+
+* [Forum post for the change](https://forum.makerdao.com/t/chainlog-improving-how-we-keep-track-of-our-deployed-contracts/11834)
+* [Chainlog contract’s source code](https://github.com/makerdao/dss-chain-log)
+* [Chainlog contract’s mainnet deployment](https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f)
+* [UI and API’s source code](https://github.com/makerdao/chainlog-ui)
+* [UI](https://chainlog.makerdao.com)
+* [API](https://chainlog.makerdao.com/api.html)
+
+# Old README
+
+## Maker Foundation Multi-Collateral DAI Public Releases Page
 
 Go to https://changelog.makerdao.com/ to see the details.
 
-## Process for updating the changelog
+### Process for updating the changelog
 
 1. The Protocol Engineering Core Unit creates a PR; review done by someone else from the PECU and someone from the TechOps Team.
 
@@ -12,6 +25,6 @@ Go to https://changelog.makerdao.com/ to see the details.
 
 4. Changes are communicated internally and externally - Rocket Chat and Forum topic.
 
-## Using the changelog
+### Using the changelog
 
 Projects and developers who need to programmatically encode contract addresses are encouraged to use the "active" URLs rather than copy-pasting the addresses from the current changelog.
