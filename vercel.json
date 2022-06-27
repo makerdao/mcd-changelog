@@ -7,7 +7,7 @@
     },
     {
       "source": "/releases/mainnet/active/",
-      "destination": "https://chainlog.makerdao.com",
+      "destination": "https://chainlog.makerdao.com/api.html",
       "permanent": false
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "source": "/releases/goerli/active/",
-      "destination": "https://chainlog.makerdao.com",
+      "destination": "https://chainlog.makerdao.com/api.html",
       "permanent": false
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "source": "/releases/kovan/active/",
-      "destination": "https://chainlog.makerdao.com",
+      "destination": "https://chainlog.makerdao.com/api.html",
       "permanent": false
     },
     {
