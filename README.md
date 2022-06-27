@@ -4,14 +4,12 @@ MakerDAO’s Changelog was deprecated in favor of its on-chain counterpart, the 
 
 * [Forum post for the change](https://forum.makerdao.com/t/chainlog-improving-how-we-keep-track-of-our-deployed-contracts/11834)
 * [Chainlog contract’s source code](https://github.com/makerdao/dss-chain-log)
-* [Chainlog contract’s mainnet deployment](https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f)
-* [UI and API’s source code](https://github.com/makerdao/chainlog-ui)
-* [UI](https://chainlog.makerdao.com)
-* [API](https://chainlog.makerdao.com/api.html)
+* [Chainlog contract’s mainnet deployment](https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code)
+* [Chainlog UI and API’s source code](https://github.com/makerdao/chainlog-ui)
+* [Chainlog Interface](https://chainlog.makerdao.com)
+* [Chainlog Historical API](https://chainlog.makerdao.com/api.html)
 
-# Old README
-
-## Maker Foundation Multi-Collateral DAI Public Releases Page
+## Maker Foundation Multi-Collateral DAI Public Releases Page [Deprecated]
 
 Go to https://changelog.makerdao.com/ to see the details.
 
